@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-08T12:36:49 GMT-05:00" name="Default suite" finished-at="2022-09-08T12:36:52 GMT-05:00" duration-ms="3143">
+  <suite started-at="2022-09-16T08:05:05 GMT-05:00" name="Default suite" finished-at="2022-09-16T08:05:06 GMT-05:00" duration-ms="116">
     <groups>
     </groups>
-    <test started-at="2022-09-08T12:36:49 GMT-05:00" name="Default test" finished-at="2022-09-08T12:36:52 GMT-05:00" duration-ms="3143">
-      <class name="RESTAssured.get01">
-        <test-method signature="get_1()[pri:0, instance:RESTAssured.get01@73700b80]" started-at="2022-09-08T12:36:49 GMT-05:00" name="get_1" finished-at="2022-09-08T12:36:52 GMT-05:00" duration-ms="3058" status="PASS">
+    <test started-at="2022-09-16T08:05:05 GMT-05:00" name="Default test" finished-at="2022-09-16T08:05:06 GMT-05:00" duration-ms="116">
+      <class name="RESTAssured.Put">
+        <test-method signature="put()[pri:0, instance:RESTAssured.Put@4a7f959b]" started-at="2022-09-16T08:05:06 GMT-05:00" name="put" finished-at="2022-09-16T08:05:06 GMT-05:00" duration-ms="35" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- get_1 -->
-      </class> <!-- RESTAssured.get01 -->
+        </test-method> <!-- put -->
+      </class> <!-- RESTAssured.Put -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
